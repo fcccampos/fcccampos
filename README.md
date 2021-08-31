@@ -1,10 +1,10 @@
-## 💜 Olá, meu nome é <strong>Fabricio Calvete Campos</strong>
+## Olá, meu nome é <strong>Fabricio Calvete Campos</strong>
 
 >Sou especialista em Suporte e Implantação, logo depois que me formei minha vida profissional foi como programador tanto web como Desktop uma área sem nenhum tipo de contato com o cliente até começar a trabalhar como Suporte e por incrível que pareça acredito que realmente encontrei a minha profissão.
 
 Tenho conhecimento profundo em Banco de Dados Relacionais como SQL, Postgree e outros. Para melhorar ainda mais na área de suporte e atendimento tenho conhecimento em PHP, Delphi e Python. 
 
-🔭 OpenERP, Sistema para Imobiliária e Apps diversos.
+🔭 OpenERP, Suporte Corporativo, Implantação Online, Sistema para Imobiliária e Apps diversos.
 
 ### Linguagens de Programação
 * Delphi.
