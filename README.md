@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Fabricio Calvete Campos}!</strong>
+## 💜 Olá, meu nome é <strong>Fabricio Calvete Campos</strong>
 
 >Sou especialista em Suporte e Implantação, logo depois que me formei minha vida profissional foi como programador tanto web como Desktop uma área sem nenhum tipo de contato com o cliente até começar a trabalhar como Suporte e por incrível que pareça acredito que realmente encontrei a minha profissão.
 
@@ -6,7 +6,27 @@ Tenho conhecimento profundo em Banco de Dados Relacionais como SQL, Postgree e o
 
 🔭 OpenERP, Sistema para Imobiliária e Apps diversos.
 
-💬 Caso queira entrar em contato fale comigo no whats (051) 9 8544-2091
+### Linguagens de Programação
+* Delphi.
+* PHP.
+* Python.
+* Lazarus (Pascal).
+
+### Frameworks
+* Codeigniter
+
+### Banco de Dados
+* MySQL.
+* PostgreSQL.
+* Firebird
+* SQLite
+* SQL Server
+
+----
+
+## 💬 Minhas Redes Sociais
+*  [Linkedin](https://www.linkedin.com/in/fabriciocalvetecampos/)
+*  [Youtube](https://www.youtube.com/channel/UChPCOQpZW5rHRX1kb8yat4w)
 
 ----
 
