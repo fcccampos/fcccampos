@@ -28,9 +28,8 @@ Tenho conhecimento profundo em Banco de Dados Relacionais como SQL, Postgree e o
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-<div>
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fcccampos&show_icons=true)
   [![fcccampos](https://github-readme-stats.vercel.app/api/top-langs/?username=fcccampos&hide=html&layout=compact=true&theme=default)](https://github.com/fcccampos/)
-</div>
+
 
 
